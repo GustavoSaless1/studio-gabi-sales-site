@@ -4,6 +4,8 @@ Site institucional desenvolvido como projeto freelancer para o Studio Gabi Sales
 
 🔗 **Site publicado:** [studiogabisales.com](https://studiogabisales.com/)
 
+![Prévia da página inicial do Studio Gabi Sales](assets/preview-homepage.png)
+
 ## Sobre o projeto
 
 O site apresenta o estúdio, seus serviços e a equipe, com galerias de trabalhos e caminhos de contato e agendamento. O desenvolvimento incluiu a organização do conteúdo, implementação da interface, testes e publicação.
